@@ -38,11 +38,11 @@ jobs:
           <html lang="pt-br">
           <head>
             <meta charset="UTF-8">
-            <meta http-equiv="refresh" content="0; url=HTML/BlueStatic-Home.html">
+            <meta http-equiv="refresh" content="0; url=html/BlueStatic-Home.html">
             <title>BlueStatic</title>
           </head>
           <body>
-            <p><a href="HTML/BlueStatic-Home.html">Abrir BlueStatic</a></p>
+            <p><a href="html/BlueStatic-Home.html">Abrir BlueStatic</a></p>
           </body>
           </html>
           EOF
