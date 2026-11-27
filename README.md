@@ -1,3 +1,9 @@
+<img width="1917" height="866" alt="Captura de tela 2026-11-26 233806" src="https://github.com/user-attachments/assets/697d2568-a9c0-447b-b6af-ac835e43f49a" />
+<img width="1917" height="872" alt="imagem_2026-11-26_234316620" src="https://github.com/user-attachments/assets/15137bd4-498f-44d1-88d2-a469eb5e1dfe" />
+<img width="734" height="1600" alt="WhatsApp Image 2026-11-26 at 23 39 16 (1)" src="https://github.com/user-attachments/assets/95d68e7b-ce29-42ab-ac40-8064ac1678a4" />
+<img width="734" height="1600" alt="WhatsApp Image 2026-11-26 at 23 39 16" src="https://github.com/user-attachments/assets/2afdebb8-ffc7-4adc-8d05-83d1fb01d85d" />
+<img width="734" height="1600" alt="WhatsApp Image 2026-11-26 at 23 39 15" src="https://github.com/user-attachments/assets/cb87efa5-2346-434a-9903-0199c1d71c0b" />
+<img width="1917" height="866" alt="Captura de tela 2026-11-26 233806" src="https://github.com/user-attachments/assets/d8f6bd56-2a1a-4155-a449-cc83f0225677" />
 # WikiProjetoWeb
 Um trabalho de WEB coding cujo objetivo é criar um site funcional utilizando o html, css. 
 # Documentação de CSS: WikiProjetoWeb
